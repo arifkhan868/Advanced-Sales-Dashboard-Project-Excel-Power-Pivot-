@@ -89,7 +89,7 @@ Top Products := TOPN(10, VALUES(Products[ProductName]), [Total Revenue], DESC)
 ---
 
 ## 📸 Dashboard Overview
-![Dashboard Screenshot](workbook/Dashboard.PNG)
+- <a href="">Dashboard View</a>
 
 ### 🧭 Key Visuals
 - **KPI Cards:** Total Units, Total Revenue, YOY Growth %, Avg per Customer/Product.

@@ -89,7 +89,7 @@ Top Products := TOPN(10, VALUES(Products[ProductName]), [Total Revenue], DESC)
 ---
 
 ## 📸 Dashboard Overview
-- <a href="">Dashboard View</a>
+- <a href="https://github.com/arifkhan868/Advanced-Sales-Dashboard-Project-Excel-Power-Pivot-/blob/main/Dashboard.PNG">Dashboard View</a>
 
 ### 🧭 Key Visuals
 - **KPI Cards:** Total Units, Total Revenue, YOY Growth %, Avg per Customer/Product.
@@ -161,20 +161,6 @@ To replicate:
 - Conditional formatting for KPIs (green/red indicators for growth).
 - Dynamic titles and year-based switching using cell references.
 - Transparent shapes for modern dashboard aesthetics.
-
----
-
-## 📢 LinkedIn Showcase Post (Ready-to-Use)
-**Header:**
-🚀 *Excel Power Pivot + DAX = Full BI Dashboard!* 🔥
-
-**Body:**
-I created a fully interactive **Sales Analytics Dashboard** using only Excel Power Pivot & DAX — no Power BI!  
-It covers revenue growth, customer demographics, product insights, and time-based patterns with advanced DAX measures like `SUMX`, `DISTINCTCOUNT`, and `CALCULATE`.
-
-বাংলা: আমি Excel (Power Pivot + DAX) ব্যবহার করে একটি professional Sales Dashboard তৈরি করেছি যা সম্পূর্ণ interactive এবং portfolio-ready। 💼
-
-**#Excel #PowerPivot #DAX #Dashboard #DataAnalytics #Portfolio #PowerQuery**
 
 ---
 

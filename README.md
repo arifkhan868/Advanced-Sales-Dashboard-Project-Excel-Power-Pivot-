@@ -171,7 +171,7 @@ Released under the **MIT License** — free for learning and portfolio sharing.
 
 ## ✨ Developer Info
 **👨‍💻 Ariful Islam**  
-**📧** [Your Email Here]  
+**📧** [arifkhan.nsd14@gmail.com]  
 **🌐** [GitHub Profile or Portfolio Link]  
 
 > This project represents strong analytical capability, advanced Excel modeling, and business intelligence storytelling through data.
